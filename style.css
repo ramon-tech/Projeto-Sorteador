@@ -1,0 +1,48 @@
+*{
+    margin: 0
+}
+
+html {
+    background-color: rgba(15, 15, 24, 0.932);
+}
+
+header{
+    margin-bottom: 50px;
+}
+
+img{
+    border-radius: 50px;
+    }
+
+.logo {
+    display: block;
+    margin: 20px auto
+}
+
+
+
+div {
+    font-family: "Oswald", sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.text-title{
+    color: yellow;
+}
+
+.sortear-button{
+    background-color: yellow;
+    padding: 30px;
+    margin: 20px auto;
+    font-family: "Oswald";
+    font-size: 40px;
+    border-radius: 5px;
+}
+
+input{
+    border-radius: 5px;
+    width: 100px;
+}
+
+
