@@ -20,13 +20,16 @@
             <p class="text-title">
                 Sortear um número
             </p>
-            <input class="input-number" type="number" placeholder="entre">
-            <input class="input-number" type="number" placeholder="e">
+            <input class="input-min" type="number" placeholder="entre">
+            <input class="input-max" type="number" placeholder="e">
         </div>
         <div>
-            <button class="sortear-button">
+            <button onclick="generateNumber()" class="sortear-button">
                 Sortear
             </button>
+        </div>
+        <div>
+           <p class="resultado">O resultado é: <b class="number-result"> Nenhum, por enquanto...</b></p> 
         </div>
     </section>
 </body>

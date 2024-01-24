@@ -43,6 +43,8 @@ div {
 input{
     border-radius: 5px;
     width: 100px;
+    }
+
+.resultado{
+    background-color: aliceblue; 
 }
-
-
